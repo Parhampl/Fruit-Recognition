@@ -1,0 +1,8 @@
+
+tensorflow
+numpy
+pandas
+matplotlib
+cv2
+IPython
+glob
