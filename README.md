@@ -11,11 +11,11 @@ This repository contains another segmentation task focusing on data processing, 
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Segmentation_Task_2.git
+   git clone https://github.com/yourusername/FruitRecognition.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Segmentation_Task_2
+   cd FruitRecognition
    ```
 3. Install dependencies:
    ```bash
@@ -23,7 +23,7 @@ This repository contains another segmentation task focusing on data processing, 
    ```
 4. Run the Jupyter Notebook:
    ```bash
-   jupyter notebook notebooks/segmentation_task_2.ipynb
+   jupyter notebook notebooks/FruitRecognition.ipynb
    ```
 
 ## Interactive Notebook
